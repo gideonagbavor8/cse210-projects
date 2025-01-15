@@ -1,0 +1,23 @@
+using System;
+
+using System.Collections.Generic;
+
+public class Resume
+{
+    public string _name;
+    public string _jobs;
+    public List<Job> _jobs = new List<Job>();
+    // public List<Job> _company = new List<Job>();
+
+    // Method to display resume details
+    public void Display()
+    {
+        Console.WriteLine($"Name: {_name}");
+        // Console.WriteLine("Jobs: {}");
+        
+        foreach (Job job in _jobs)
+        {
+            job.Display();
+        }
+    }
+}
