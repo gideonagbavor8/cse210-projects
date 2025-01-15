@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class Resume
 {
     public string _name;
-    public string _jobs;
+    // public string _jobs;
     public List<Job> _jobs = new List<Job>();
     // public List<Job> _company = new List<Job>();
 
