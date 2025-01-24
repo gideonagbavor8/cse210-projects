@@ -1,3 +1,13 @@
+// Author: Gideon Komla Agbavor
+
+// Purpose: a program that displays the full scripture and then hides a few words at a time until the complete scripture is hidden.
+
+// Showing Creativity and Exceeding Requirements
+// // Load multiple scriptures from a file and select one at random
+// Read scriptures from a file and create Scripture objects
+// // Hide only one word at a time
+
+
 using System;
 using System.Collections.Generic;
 using System.IO;
