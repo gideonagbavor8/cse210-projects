@@ -5,7 +5,7 @@
 // Showing Creativity and Exceeding Requirements
 // // Load multiple scriptures from a file and select one at random
 // Read scriptures from a file and create Scripture objects
-// // Hide only one word at a time
+// // Hide only one word at a time in th
 
 
 using System;
