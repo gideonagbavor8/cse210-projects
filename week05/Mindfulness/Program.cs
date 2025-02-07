@@ -1,4 +1,10 @@
-
+// 1. Animation Enhancements: Added more meaningful animations 
+// for the breathing activity, such as text that 
+// grows and shrinks to simulate breathing.
+// 2. Iinclude the new activity and log management.
+// 3. Keeping a Log: Enhance the program to keep track of how 
+// many times each activity is performed and display 
+// this information to the user.
 
 
 public class Program
