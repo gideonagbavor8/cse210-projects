@@ -1,0 +1,3 @@
+300
+EternalGoal|Baptism|Go to the temple |100
+EternalGoal|temple sealing|Go to the temple and seal my marriage.|100
