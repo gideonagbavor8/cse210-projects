@@ -1,3 +1,2 @@
-300
-EternalGoal|Baptism|Go to the temple |100
-EternalGoal|temple sealing|Go to the temple and seal my marriage.|100
+1000
+ChecklistGoal|Attend Temple|Attend the temple 10 times to receive a spiritual boost.|50|10|10|500
