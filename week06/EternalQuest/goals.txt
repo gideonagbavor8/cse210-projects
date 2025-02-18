@@ -1,2 +1,3 @@
-1000
-ChecklistGoal|Attend Temple|Attend the temple 10 times to receive a spiritual boost.|50|10|10|500
+SimpleGoal:Run a marathon,Complete a marathon run,1000,True
+EternalGoal:Read scriptures,Daily scripture reading,200,False
+ChecklistGoal:Attend temple,Attend temple service,100,False,1,10
