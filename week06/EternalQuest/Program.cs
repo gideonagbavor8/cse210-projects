@@ -1,3 +1,4 @@
+
 // Creativity and Exceeding Requirements
 // Implemented Eternal Goals which can be logged repeatedly, earning points each time.
 
